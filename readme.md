@@ -24,3 +24,10 @@ A simple sketch (that needs a lot of work) that can attempt decode IR signals, b
     * Triggered via the `IRCommand`
     * currently only supports protocol `NEC` (due to lazyness, its all I needed so far)
     
+## Circuit Design
+The components:
+1. Arduino (personally I'm using an Arduino Nano r3, but any board would work)
+1. IR Receiver
+1. IR LED Emmitor
+
+![Circuit Design](./images/curcuitDesign.png)
