@@ -1,5 +1,5 @@
 # FeyDelight's Arduino IR Decoder and Blaster 
-A simple sketch (that needs a lot of work) that can attempt decode IR signals, blast IR messages, and communicate through a serial port.
+    A simple sketch (that needs a lot of work) that can attempt decode IR signals, blast IR messages, and communicate through a serial port. This project is currently being used in conjunction with [StreamDeck-SerialIRBlaster](https://github.com/feydelight/StreamDeck-SerialIRBlaster)
 
 ## Features
 1. Hardware capabilities:
