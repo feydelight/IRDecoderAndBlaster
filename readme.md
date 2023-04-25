@@ -30,4 +30,4 @@ The components:
 1. IR Receiver
 1. IR LED Emmitor
 
-![Circuit Design](./images/curcuitDesign.png)
+![Circuit Design](./images/circuitDesign.png)
